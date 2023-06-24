@@ -35,3 +35,6 @@ http://localhost:8080/api/documentation/
 ## MinIO Browser
 
 http://localhost:9000/
+
+## Ressource
+You read this article : https://medium.com/@kaoxyd/minio-and-spring-boot-with-minio-starter-d7efcce5f99a
